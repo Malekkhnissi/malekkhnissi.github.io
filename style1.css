@@ -61,7 +61,7 @@ footer p{
 float: none;
 text-align: center;
 text-decoration: underline;
-text-decoration-color: green;
+text-decoration-color: red;
 background-image: linear-gradient(red,purple);
 position: relative;
 top: 50%;
@@ -78,9 +78,9 @@ a:link{
     color: red;
 }
 a:visited{
-      color: darkgreen;
+      color: lightblue;
       }
 a:hover{
-    color: black;
+    color: lightblue;
     background-color: white;
 }
