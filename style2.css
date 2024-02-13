@@ -1,12 +1,12 @@
 #table1{
-    border-color: blue;
+    border-color: lightblue;
     border-width: 2mm;
     border-style: double;
     border-radius: 5%;
     width: 100%;
 }
 #table2{
-    border-color: red;
+    border-color: pink;
     border-width: 3mm;
     border-style: dotted;
     margin-left: 0px;
